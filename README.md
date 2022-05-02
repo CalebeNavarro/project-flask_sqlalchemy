@@ -48,9 +48,9 @@ Esta api foi hospedada em https://capstone-q3-heroku.herokuapp.com na plataforma
 * [SQLAlchemy](https://www.sqlalchemy.org/) - Usado para criação do banco de dados.
 ## ✒️ Autores
 
-* **Fernando Schneider** - *Tech Leader* - [Fernando Schneider](https://gitlab.com/FernandoSchneider)
-* **Renato Moresche** - *Scrum Master* - [Renato Moresche](https://gitlab.com/moresche)
-* **Calebe Navarro** - *Product Owner* - [Calebe Navarro](https://gitlab.com/CalebeNavarro)
-* **Gustavo Silva** - *Dev* - [Gustavo Silva](https://gitlab.com/GustavoSil)
+* **Fernando Schneider** - *Tech Leader* - [Fernando Schneider](https://www.linkedin.com/in/fernando-schneider-dev/)
+* **Renato Moresche** - *Scrum Master* - [Renato Moresche](https://www.linkedin.com/in/renato-moresche/)
+* **Calebe Navarro** - *Product Owner* - [Calebe Navarro](https://www.linkedin.com/in/calebenavarro/)
+* **Gustavo Silva** - *Dev* - [Gustavo Silva](https://www.linkedin.com/in/gustavosilvafranco/)
 * **Wander Moreira** - *Dev* - [Wander Moreira](https://gitlab.com/trevius)
 
